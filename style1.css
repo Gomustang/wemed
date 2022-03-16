@@ -1,0 +1,36 @@
+<style>
+
+ul {
+    border-right:1px solid gray;
+    width:100px;
+    margin:0px;
+    padding:20px;
+    }
+  h1 {
+
+    color:white;
+    background-color:black;
+    text-align:center;
+    font-family: arial, "Times New Roman", serif;
+    Font-size:40px;
+    Border-bottom: 2px solid gray;
+    padding:20px;
+    margin:0px;
+    }
+    a {
+      color:inherit;text-decoration: none;
+    }
+  #main {
+    display:grid;
+    grid-template-columns:repeat(8,120px);
+    font-family: arial, "Times New Roman", serif;
+    text-align:center;
+    text-decoration-color: white;
+    background-color: gray;
+  }
+#article {
+  text-align:center;
+}
+
+
+</style>
